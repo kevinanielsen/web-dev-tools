@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SvelteKit",
+    "url": "https://svelte.dev/",
+    "category": "framework",
+    "description": "SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.",
+    "image": "https://svelte.dev/favicon.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com/",
+    "category": "css",
+    "description": "Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.",
+    "image": "https://tailwindcss.com/favicons/favicon.ico"
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://www.typescriptlang.org/",
+    "category": "typescript",
+    "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
+    "image": "https://www.typescriptlang.org/favicon.ico"
+  },
+  {
+    "name": "Vite",
+    "url": "https://vitejs.dev/",
+    "category": "framework",
+    "description": "Vite is a frontend build tool that's fast, lightweight, and gets out of your way.",
+    "image": "https://vitejs.dev/logo.svg"
+  }
+]
