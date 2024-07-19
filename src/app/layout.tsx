@@ -25,6 +25,10 @@ export default function RootLayout({
             <img className="w-12 h-12 hover:scale-90 transition-all" src="/github-mark.svg" alt="GitHub" />
           </Link>
         </span>
+        <Link href="#top" className="fixed bottom-8 right-8 border rounded-full p-2 hover:bg-primary/5 transition-all">
+          <img src="/scroll.svg" alt="Scroll to top" className="w-6 h-6" />
+          <span className="sr-only">Scroll to top</span>
+        </Link>
       </body>
       <GoogleAnalytics gaId="G-P585GSZG7M" />
     </html>

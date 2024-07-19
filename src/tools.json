@@ -4,27 +4,216 @@
     "url": "https://svelte.dev/",
     "category": "framework",
     "description": "SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.",
-    "image": "https://svelte.dev/favicon.png"
+    "image": "https://svelte.dev/favicon.png",
+    "tags": ["svelte", "kit", "framework", "frontend", "backend", "ssr", "typescript", "javascript"]
   },
   {
     "name": "Tailwind CSS",
     "url": "https://tailwindcss.com/",
-    "category": "css",
+    "category": "frontend",
     "description": "Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.",
-    "image": "https://tailwindcss.com/favicons/favicon.ico"
+    "image": "https://tailwindcss.com/favicons/favicon.ico",
+    "tags": ["css", "frontend", "ui"]
+  },
+  {
+    "name": "Strapi",
+    "url": "https://strapi.io/",
+    "category": "backend",
+    "description": "Strapi is a headless CMS with superpowers — create, read, update, delete content in seconds.",
+    "image": "https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png",
+    "tags": ["cms", "backend", "javascript"]
   },
   {
     "name": "TypeScript",
     "url": "https://www.typescriptlang.org/",
-    "category": "typescript",
+    "category": "language",
     "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
-    "image": "https://www.typescriptlang.org/favicon.ico"
+    "image": "https://www.typescriptlang.org/favicon.ico",
+    "tags": ["javascript", "frontend", "backend"]
   },
   {
     "name": "Vite",
     "url": "https://vitejs.dev/",
-    "category": "framework",
+    "category": "frontend",
     "description": "Vite is a frontend build tool that's fast, lightweight, and gets out of your way.",
-    "image": "https://vitejs.dev/logo.svg"
+    "image": "https://vitejs.dev/logo.svg",
+    "tags": ["framework", "frontend", "svelte", "react", "vue"]
+  },
+  {
+    "name": "Vue",
+    "url": "https://vuejs.org/",
+    "category": "frontend",
+    "description": "Vue is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "image": "https://vuejs.org/images/logo.png",
+    "tags": ["framework", "frontend", "javascript"]
+  },
+  {
+    "name": "Nuxt",
+    "url": "https://nuxtjs.org/",
+    "category": "framework",
+    "description": "Nuxt is a Vue.js-powered framework for server-rendered universal applications.",
+    "image": "https://nuxt.com/assets/design-kit/icon-green.png",
+    "tags": ["framework", "frontend", "vue", "javascript"]
+
+  },
+  {
+    "name": "Next.js",
+    "url": "https://nextjs.org/",
+    "category": "framework",
+    "description": "Next.js is a React framework from Vercel that makes it easy to build server-side rendered and statically-exported React apps.",
+    "image": "https://nextjs.org/favicon.ico",
+    "tags": ["framework", "frontend", "react", "javascript", "backend", "typescript", "ssr", "ssg"]
+  },
+  {
+    "name": "Gatsby",
+    "url": "https://www.gatsbyjs.com/",
+    "category": "frontend",
+    "description": "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.",
+    "image": "https://www.gatsbyjs.com/icons/icon-256x256.png?v=3ad5294f3fa6c06e2d07ab07c76df2cf",
+    "tags": ["framework", "frontend", "react", "javascript"]
+  },
+  {
+    "name": "SVGOMG",
+    "url": "https://jakearchibald.github.io/svgomg/",
+    "category": "frontend",
+    "description": "SVGOMG is a tool for optimizing SVG vector graphics files.",
+    "image": "https://jakearchibald.github.io/svgomg/imgs/icon.png",
+    "tags": ["svg", "images", "frontend", "ui"]
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com/",
+    "category": "frontend",
+    "description": "Unsplash is a free stock photos site for professionals and amateurs.",
+    "image": "https://unsplash.com/android-chrome-192x192.png",
+    "tags": ["images", "frontend", "ui"]
+  },
+  {
+    "name": "Cloudinary",
+    "url": "https://cloudinary.com/",
+    "category": "hosting",
+    "description": "Cloudinary is a cloud-based media management platform that allows users to store, manage, and deliver images, videos, and other files.",
+    "image": "https://cloudinary.com/favicon.ico",
+    "tags": ["images", "frontend", "ui", "backend", "cdn"]
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://www.cloudflare.com/",
+    "category": "hosting",
+    "description": "Cloudflare is a content delivery network (CDN) that provides a secure, fast, and reliable way to deliver static content to end users.",
+    "image": "https://www.cloudflare.com/favicon.ico",
+    "tags": ["cdn", "frontend", "ui", "backend"]
+  },
+  {
+    "name": "Netlify",
+    "url": "https://www.netlify.com/",
+    "category": "hosting",
+    "description": "Netlify is a cloud platform that enables developers to build, deploy, and manage modern web projects.",
+    "image": "https://www.netlify.com/favicon/icon-192.png",
+    "tags": ["hosting", "frontend", "backend"]
+  },
+  {
+    "name": "Tabler Icons",
+    "url": "https://tablericons.com/",
+    "category": "icons",
+    "description": "Tabler Icons is a free and open-source icon set designed for developers and designers.",
+    "image": "https://tablericons.com/favicon.ico",
+    "tags": ["icons", "frontend", "ui"]
+  },
+  {
+    "name": "Mobile Palette Generator",
+    "url": "https://mobilepalette.colorion.co/",
+    "category": "frontend",
+    "description": "Mobile Palette Generator is a free online tool that allows you to generate color palettes for your mobile apps.",
+    "image": "https://mobilepalette.colorion.co/favicon.png",
+    "tags": ["colors", "frontend", "ui"]
+  },
+  {
+    "name": "Digital Ocean",
+    "url": "https://www.digitalocean.com/",
+    "category": "hosting",
+    "description": "Digital Ocean is a cloud hosting provider that offers a range of services for developers and businesses.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/DigitalOcean_icon.svg/256px-DigitalOcean_icon.svg.png",
+    "tags": ["hosting", "backend", "containers", "docker", "cloud", "kubernetes"]
+  },
+  {
+    "name": "Stack Share",
+    "url": "https://stackshare.io/",
+    "category": "resources",
+    "description": "Stack Share is a platform that allows developers to share their code snippets and libraries with others.",
+    "image": "https://stackshare.io/favicon.ico",
+    "tags": ["resources", "code", "snippets", "libraries"]
+  },
+  {
+    "name": "Easings",
+    "url": "https://easings.co/",
+    "category": "resources",
+    "description": "Easings is a collection of easing functions for CSS animations.",
+    "image": "https://easings.co/images/favicon.png",
+    "tags": ["resources", "css", "animations"]
+  },
+  {
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/",
+    "category": "icons",
+    "description": "Font Awesome is a collection of icons designed to be used with web fonts.",
+    "image": "https://fontawesome.com/favicon.ico",
+    "tags": ["resources", "icons", "fonts"]
+  },
+  {
+    "name": "Phosphor Icons",
+    "url": "https://phosphoricons.com/",
+    "category": "icons",
+    "description": "Phosphor Icons is a free and open-source icon set designed for developers and designers.",
+    "image": "https://phosphoricons.com/favicon-192.png",
+    "tags": ["resources", "icons", "fonts"]
+  },
+  {
+    "name": "Small Dev Tools",
+    "url": "https://smalldev.tools/",
+    "category": "other",
+    "description": "Small Dev Tools is a collection of small, focused, and simple tools that can help you build your projects faster.",
+    "image": "https://smalldev.tools/favicon.png",
+    "tags": ["tools", "json", "svg", "yaml", "xml", "formatter"]
+  },
+  {
+    "name": "grep.app",
+    "url": "https://grep.app/",
+    "category": "other",
+    "description": "grep.app is a free online tool that allows you to search for text patterns in files.",
+    "image": "https://grep.app/favicon.ico",
+    "tags": ["tools", "search", "text"]
+  },
+  {
+    "name": "Pagespeed Insights",
+    "url": "https://pagespeed.web.dev/",
+    "category": "other",
+    "description": "Pagespeed Insights is a free online tool that analyzes the performance of your website and provides recommendations for improvement.",
+    "image": "https://www.gstatic.com/pagespeed/insights/ui/logo/favicon_48.png",
+    "tags": ["tools", "performance", "seo"]
+  },
+  {
+    "name": "Carbon",
+    "url": "https://carbon.now.sh/",
+    "category": "other",
+    "description": "Carbon is a free online tool that allows you to create beautiful images of your code.",
+    "image": "https://carbon.now.sh/favicon.ico",
+    "tags": ["tools", "code", "images"]
+  },
+  {
+    "name": "Web.dev",
+    "url": "https://web.dev/",
+    "category": "resources",
+    "description": "Web.dev is a free online tool that provides information about web technologies and APIs.",
+    "image": "https://www.gstatic.com/devrel-devsite/prod/vfa66122381520aa66a2392fe22cd63e3f9c34ba07e71f8c7082c2a470b6e6f49/web/images/favicon.png",
+    "tags": ["tools", "resources", "web", "api"]
+  },
+  {
+    "name": "Shape Divider App",
+    "url": "https://shapedivider.app/",
+    "category": "resources",
+    "description": "Shape Divider App is a free online tool that allows you to create shape dividers for your website.",
+    "image": "https://www.shapedivider.app/img/logo_500x500.18aca7aa.png",
+    "tags": ["tools", "shapes", "dividers"]
   }
 ]
