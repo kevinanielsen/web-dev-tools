@@ -215,5 +215,13 @@
     "description": "Shape Divider App is a free online tool that allows you to create shape dividers for your website.",
     "image": "https://www.shapedivider.app/img/logo_500x500.18aca7aa.png",
     "tags": ["tools", "shapes", "dividers"]
+  },
+  {
+    "name": "Neon",
+    "url": "https://neon.tech/",
+    "category": "hosting",
+    "description": "Neon.tech is a serverless Postgres database platform that offers scalable and cost-effective database management.",
+    "image": "https://neon.tech/favicon.ico",
+    "tags": ["database", "postgre", "storage"]
   }
 ]
